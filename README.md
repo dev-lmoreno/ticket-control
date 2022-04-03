@@ -15,3 +15,6 @@
 #### Funcionalidades - V5 [ ]
 - Desenvolver um sistema de Login (Contendo o cadastro do login). Inicialmente será apenas feito o cadastro do usuário e passando as credenciais certas deverá ser redirecionado para a tela de listagem dos Tickets
 - Observação: Para este caso pode-se integrar a funcionalidade com banco de dados ou salvar os valores em um novo arquivo json chamado loginControll.json
+
+### Observação
+- O arquivo tickets.json está no repositório para que se possa iniciar o desenvolvimento
